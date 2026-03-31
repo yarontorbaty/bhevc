@@ -1,0 +1,38 @@
+# Build artifacts
+libaom-build/
+libaom-debug/
+*.o
+bhevc
+
+# Test data and sequences
+sequences/
+testdata/
+bdrate_work/
+
+# Benchmark outputs
+benchmark_results/
+benchmark_av1_results/
+
+# Packaging
+submission_packet/
+*.tar.gz
+
+# Encode/decode artifacts
+*.ivf
+*.y4m
+*.yuv
+
+# Third-party reference encoders
+x264-baseline/
+
+# Intermediate/superseded results
+bdrate_results.txt
+bdrate_results_comprehensive.txt
+bdrate_results_final.txt
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
