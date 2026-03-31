@@ -133,9 +133,8 @@ subjective_results/         Visual comparison images (30 frames)
 
 ## Research Basis
 
-> "Thalamic activation of the visual cortex at the single-synapse level"
+> ["Thalamic activation of the visual cortex at the single-synapse level"](https://www.science.org/doi/10.1126/science.aec9923)
 > Science 391, 1349 (2026)
-> DOI: 10.1126/science.adq8018
 
 The paper demonstrates that the early visual system extracts structure through sparse, signed (ON/OFF) local events. This project translates those principles into practical encoder features: Sobel-based edge classification replaces variance-based classification, and a signed gradient mismatch penalty preserves edge polarity where it matters most perceptually.
 

@@ -257,6 +257,5 @@ python3 bdrate_analysis.py --help  # BD-rate computation with many options
 
 ## Citation
 
-> "Thalamic activation of the visual cortex at the single-synapse level"
+> ["Thalamic activation of the visual cortex at the single-synapse level"](https://www.science.org/doi/10.1126/science.aec9923)
 > Science 391, 1349 (2026)
-> DOI: 10.1126/science.adq8018

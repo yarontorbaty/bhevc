@@ -256,9 +256,8 @@ The feature is activated via `--aq-mode=4` with no additional configuration requ
 
 ## 7. Reference
 
-> "Thalamic activation of the visual cortex at the single-synapse level"  
-> Science 391, 1349 (2026)  
-> DOI: 10.1126/science.adq8018
+> ["Thalamic activation of the visual cortex at the single-synapse level"](https://www.science.org/doi/10.1126/science.aec9923)  
+> Science 391, 1349 (2026)
 
 ---
 
